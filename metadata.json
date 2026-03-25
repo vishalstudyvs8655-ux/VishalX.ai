@@ -1,1 +1,7 @@
-
+{
+  "name": "VishalX.ai",
+  "description": "A versatile AI assistant for government services, students, business, health, legal help, and image generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
